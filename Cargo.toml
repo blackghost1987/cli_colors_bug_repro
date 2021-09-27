@@ -1,0 +1,9 @@
+[package]
+name = "cli_colors_bug_repro"
+version = "0.1.0"
+edition = "2018"
+authors = ["Juhasz Sandor <blackghost1987@gmail.com>"]
+
+[dependencies]
+log4rs = "1.0"
+rocket = { version = "0.5.0-rc.1" }
